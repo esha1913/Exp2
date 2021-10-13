@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: grey;
+}
+
+
+img{
+    display: inline;
+    position: absolute;
+    float: right;
+    left:70em;
+    top: -14px;
+}
+
+#header{
+    position: relative;
+}
+
